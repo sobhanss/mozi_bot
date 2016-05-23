@@ -263,7 +263,7 @@ function create_config( )
     An Advanced Anti Spam Bot Forked On TeleSeed
     
     Develpoed By:
-    @Mr_Ah_S
+   @Mr_atsain
     
     Special Thanks To:
     Mehr Pouya
@@ -271,10 +271,8 @@ function create_config( )
     IM/-\N
     Creed Is Dead
     
-    Powered By @Sbss_Team
+    Powered By @Sobhanss_tame
     
-    #Open Source
-    https://github.com/SbssTeam/Sbss
 ]],
     help_text_realm = [[
 See Patterns In Github
@@ -514,7 +512,7 @@ function cron_plugins()
 end
 
 -- Start and load values
-our_id = 0
+our_id = 194193264
 now = os.time()
 math.randomseed(now)
 started = false
